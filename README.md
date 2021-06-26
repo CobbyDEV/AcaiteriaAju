@@ -11,6 +11,6 @@
   <img src="./github/gif 2.gif" alt="demo-mobile" height="425">
 </div>
 
-To see the **web client**, click here: [AçaiteriaAju Web](cobbydev.github.io/acaiteriaaju/)<br />
+To see the **web client**, click here: [AçaiteriaAju Web](https://cobbydev.github.io/AcaiteriaAju/)<br />
 
 Made with 💜 by Cobby 👋 [See my linkedin](https://www.linkedin.com/in/guilherme-matias-cobby-6b320615b/)
